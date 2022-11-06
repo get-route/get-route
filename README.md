@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=get-route" alt="get-route" /></a> </p>
 
-- 🔭 Сейчас у меня в работе мой проект [поиска номеров автомобильных двигателей](https://github.com/get-route/Engine_Code)
+- 🔭 Сейчас у меня в работе мой проект [генератора метрик для новорожденных с оплатой](https://github.com/get-route/children_metrics)
 
 - 🌱 Также сейчас я активно осваиваю **Laravel и Vue.js**
 
